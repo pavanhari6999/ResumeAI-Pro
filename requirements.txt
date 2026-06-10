@@ -1,5 +1,7 @@
 streamlit
+streamlit-option-menu
 PyPDF2
 pandas
 plotly
 reportlab
+matplotlib
